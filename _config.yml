@@ -2,7 +2,7 @@ title: Hannin
 description:
 google_analytics:
 show_downloads: false
-theme: jekyll-theme-cayman-blog
+theme: jekyll-theme-cayman
 
 plugins:
   - jekyll-mentions
