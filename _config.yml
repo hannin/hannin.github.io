@@ -1,8 +1,8 @@
-title: Hannin.GitHub.io
-description: Site powered by github
-google_analytics: 
-show_downloads: true
-theme: jekyll-theme-cayman
+title: Hannin
+description:
+google_analytics:
+show_downloads: false
+theme: jekyll-theme-cayman-blog
 
-gems:
+plugins:
   - jekyll-mentions
